@@ -44,5 +44,13 @@
         "description": "БЫСТРЫЕ ВЫПЛАТЫ - 1XBBET!!! НАДЁЖНЫЙ БУКМЕКЕР!!! 1XBET!!!",
         "type": "url",
         "action": "https://1xbet.com"
+    },
+
+        {
+        "name": "Asperr",
+        "title": "Подпишитесь, позязя :3",
+        "description":"",
+        "type": "url",
+        "action": "https://www.youtube.com/@Asp3rr"
     }
 ]
