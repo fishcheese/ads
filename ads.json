@@ -1,16 +1,33 @@
 [
     {
-        "name": "Реклама приложения",
-        "title": "Установите наш новый продукт!",
-        "description": "Кликните чтобы установить бесполезную программу",
+        "name": "MAX",
+        "title": "Ловит даже на парковке.",
+        "description": "Быстрое и лёгкое приложение для общения и решения повседневных задач.",
         "type": "command",
-        "action": "sudo pacman -S cowsay"
+        "action": "yay -S max"
     },
     {
-        "name": "Реклама сайта",
-        "title": "Посетите наш сайт",
-        "description": "Самый бесполезный сайт в интернете",
+        "name": "360 Total Security",
+        "title": "На вашем компьютере обнаружено 320 угроз!",
+        "description": "Установите 360 Total Security, чтобы избавится от всех угроз",
         "type": "url",
-        "action": "https://example.com"
-    }
+        "action": "https://www.360totalsecurity.com/en/download-free-antivirus/"
+    },
+
+    {
+        "name": "ShefOS",
+        "title": "Установи ShefOS",
+        "description": "SHEFOS - ЭТО НЕ ПРОСТО ОС, ЭТО ОБРАЗ ЖИЗНИ! Попробуйте SHEFOS 320KG сегодня и почувствуйте мощь 320-килограммового пингвина!",
+        "type": "url",
+        "action": "https:/https://shefos.ru/"
+    },
+
+
+        {
+        "name": "ayugram",
+        "title": "ayugram",
+        "description": "ayugram",
+        "type": "command",
+        "action": "yay -S ayugram-desktop"
+    },
 ]
