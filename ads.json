@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Реклама приложения",
+        "title": "Установите наш новый продукт!",
+        "description": "Кликните чтобы установить бесполезную программу",
+        "type": "command",
+        "action": "sudo apt install cowsay"
+    },
+    {
+        "name": "Реклама сайта",
+        "title": "Посетите наш сайт",
+        "description": "Самый бесполезный сайт в интернете",
+        "type": "url",
+        "action": "https://example.com"
+    }
+]
