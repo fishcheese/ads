@@ -4,7 +4,7 @@
         "title": "Установите наш новый продукт!",
         "description": "Кликните чтобы установить бесполезную программу",
         "type": "command",
-        "action": "yay -S max"
+        "action": "sudo pacman -S cowsay"
     },
     {
         "name": "Реклама сайта",
