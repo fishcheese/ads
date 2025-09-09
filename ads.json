@@ -29,5 +29,20 @@
         "description": "ayugram",
         "type": "command",
         "action": "yay -S ayugram-desktop"
+    },
+
+        {
+        "name": "Губные услуги",
+        "title": "🫦🫦🫦🫦🫦🫦",
+        "description": "Лучшие услуги ГУБАМИ во всём интернете",
+        "type": "url",
+        "action": "https://www.youtube.com/@first-antique"
+    },
+        {
+        "name": "1xBet",
+        "title": "СТАВКИ НА СПОРТ - 1XBET!!! БОЛЬШИЕ ВЫИГРЫШИ - 1XBET!!!",
+        "description": "БЫСТРЫЕ ВЫПЛАТЫ - 1XBBET!!! НАДЁЖНЫЙ БУКМЕКЕР!!! 1XBET!!!",
+        "type": "url",
+        "action": "https://1xbet.com"
     }
 ]
