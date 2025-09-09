@@ -29,5 +29,5 @@
         "description": "ayugram",
         "type": "command",
         "action": "yay -S ayugram-desktop"
-    },
+    }
 ]
